@@ -1,0 +1,9 @@
+c:\documents and settings\home\мои документы\visual studio 2010\Projects\Graph_CSharp\Graph_CSharp\bin\Debug\Graph_CSharp.exe
+c:\documents and settings\home\мои документы\visual studio 2010\Projects\Graph_CSharp\Graph_CSharp\bin\Debug\Graph_CSharp.pdb
+c:\documents and settings\home\мои документы\visual studio 2010\Projects\Graph_CSharp\Graph_CSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\home\мои документы\visual studio 2010\Projects\Graph_CSharp\Graph_CSharp\obj\x86\Debug\Graph_CSharp.Form1.resources
+c:\documents and settings\home\мои документы\visual studio 2010\Projects\Graph_CSharp\Graph_CSharp\obj\x86\Debug\Graph_CSharp.Properties.Resources.resources
+c:\documents and settings\home\мои документы\visual studio 2010\Projects\Graph_CSharp\Graph_CSharp\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\home\мои документы\visual studio 2010\Projects\Graph_CSharp\Graph_CSharp\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\home\мои документы\visual studio 2010\Projects\Graph_CSharp\Graph_CSharp\obj\x86\Debug\Graph_CSharp.exe
+c:\documents and settings\home\мои документы\visual studio 2010\Projects\Graph_CSharp\Graph_CSharp\obj\x86\Debug\Graph_CSharp.pdb

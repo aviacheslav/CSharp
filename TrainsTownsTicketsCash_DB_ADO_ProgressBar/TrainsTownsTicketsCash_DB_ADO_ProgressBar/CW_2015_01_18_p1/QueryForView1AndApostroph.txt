@@ -1,0 +1,12 @@
+SELECT     dbo.Routs.id_Train, dbo.Routs.QPk, dbo.Routs.QKp, dbo.Routs.QSv, dbo.Routs.PkPrice, dbo.Routs.KpPrice, dbo.Routs.SvPrice, Towns_1.Town, 
+                      Trains_1.id AS Trains_Id, Trains_1.id_TownFrom, Trains_1.id_TownTo,
+                          (SELECT     Town
+                            FROM          dbo.Towns AS t
+                            WHERE      (id = Trains_1.id_TownTo)) AS TownTo_Name, dbo.Routs.date
+FROM         dbo.Routs INNER JOIN
+                      dbo.Trains AS Trains_1 ON dbo.Routs.id = Trains_1.id INNER JOIN
+                      dbo.Towns AS Towns_1 ON Trains_1.id_TownFrom = Towns_1.id
+
+
+
+where fromCity="'"+fromText+"'"

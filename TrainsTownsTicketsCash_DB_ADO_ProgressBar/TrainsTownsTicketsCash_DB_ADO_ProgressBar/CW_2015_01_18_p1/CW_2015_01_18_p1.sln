@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW_2015_01_18_p1", "CW_2015_01_18_p1\CW_2015_01_18_p1.csproj", "{4ADC43A3-2DA3-4929-B518-1633CFBF8F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ADC43A3-2DA3-4929-B518-1633CFBF8F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADC43A3-2DA3-4929-B518-1633CFBF8F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADC43A3-2DA3-4929-B518-1633CFBF8F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADC43A3-2DA3-4929-B518-1633CFBF8F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

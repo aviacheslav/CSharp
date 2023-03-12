@@ -1,0 +1,27 @@
+d:\profiles\06114\documents\visual studio 2012\Projects\CW_2015_01_18_p1\CW_2015_01_18_p1\bin\Debug\CW_2015_01_18_p1.exe.config
+d:\profiles\06114\documents\visual studio 2012\Projects\CW_2015_01_18_p1\CW_2015_01_18_p1\bin\Debug\CW_2015_01_18_p1.exe
+d:\profiles\06114\documents\visual studio 2012\Projects\CW_2015_01_18_p1\CW_2015_01_18_p1\bin\Debug\CW_2015_01_18_p1.pdb
+d:\profiles\06114\documents\visual studio 2012\Projects\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.csprojResolveAssemblyReference.cache
+d:\profiles\06114\documents\visual studio 2012\Projects\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.Form1.resources
+d:\profiles\06114\documents\visual studio 2012\Projects\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.Properties.Resources.resources
+d:\profiles\06114\documents\visual studio 2012\Projects\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.csproj.GenerateResource.Cache
+d:\profiles\06114\documents\visual studio 2012\Projects\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.exe
+d:\profiles\06114\documents\visual studio 2012\Projects\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.pdb
+E:\MyFiles\DocsCur\MyPrgs\VS2012\CW_2015_01_18_p1\CW_2015_01_18_p1\bin\Debug\CW_2015_01_18_p1.exe.config
+E:\MyFiles\DocsCur\MyPrgs\VS2012\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.exe
+E:\MyFiles\DocsCur\MyPrgs\VS2012\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.pdb
+E:\MyFiles\DocsCur\MyPrgs\VS2012\CW_2015_01_18_p1\CW_2015_01_18_p1\bin\Debug\CW_2015_01_18_p1.exe
+E:\MyFiles\DocsCur\MyPrgs\VS2012\CW_2015_01_18_p1\CW_2015_01_18_p1\bin\Debug\CW_2015_01_18_p1.pdb
+E:\MyFiles\DocsCur\MyPrgs\VS2012\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.csprojResolveAssemblyReference.cache
+E:\MyFiles\DocsCur\MyPrgs\VS2012\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.Form1.resources
+E:\MyFiles\DocsCur\MyPrgs\VS2012\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.Properties.Resources.resources
+E:\MyFiles\DocsCur\MyPrgs\VS2012\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.csproj.GenerateResource.Cache
+E:\MyFiles\DocsCur\MyPrgs\VS2012\TrainsTownsTicketsCash_DB_ADO_ProgressBar\CW_2015_01_18_p1\CW_2015_01_18_p1\bin\Debug\CW_2015_01_18_p1.exe.config
+E:\MyFiles\DocsCur\MyPrgs\VS2012\TrainsTownsTicketsCash_DB_ADO_ProgressBar\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.exe
+E:\MyFiles\DocsCur\MyPrgs\VS2012\TrainsTownsTicketsCash_DB_ADO_ProgressBar\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.pdb
+E:\MyFiles\DocsCur\MyPrgs\VS2012\TrainsTownsTicketsCash_DB_ADO_ProgressBar\CW_2015_01_18_p1\CW_2015_01_18_p1\bin\Debug\CW_2015_01_18_p1.exe
+E:\MyFiles\DocsCur\MyPrgs\VS2012\TrainsTownsTicketsCash_DB_ADO_ProgressBar\CW_2015_01_18_p1\CW_2015_01_18_p1\bin\Debug\CW_2015_01_18_p1.pdb
+E:\MyFiles\DocsCur\MyPrgs\VS2012\TrainsTownsTicketsCash_DB_ADO_ProgressBar\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.csprojResolveAssemblyReference.cache
+E:\MyFiles\DocsCur\MyPrgs\VS2012\TrainsTownsTicketsCash_DB_ADO_ProgressBar\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.Form1.resources
+E:\MyFiles\DocsCur\MyPrgs\VS2012\TrainsTownsTicketsCash_DB_ADO_ProgressBar\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.Properties.Resources.resources
+E:\MyFiles\DocsCur\MyPrgs\VS2012\TrainsTownsTicketsCash_DB_ADO_ProgressBar\CW_2015_01_18_p1\CW_2015_01_18_p1\obj\Debug\CW_2015_01_18_p1.csproj.GenerateResource.Cache

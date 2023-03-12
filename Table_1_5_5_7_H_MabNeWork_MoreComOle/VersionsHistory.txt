@@ -1,0 +1,34 @@
+1.5.5.3 - seems so, mab earlier - first began to work arrows, that is, works ToGrid with params. Earlier - no interest
+1.5.5.4 - no diff in tbl, ma in HydroResistances it was strange file structure - not only exnot sub-classses, ma ety idy strange file structure, so prev vrn left uz Forschung
+1.5.5.5:
+- HydroResistances: 
+- - AddSuc And Par smart, InsInner, NsList s'corr'd. Schem  - each added R ha nu unique N, errors of schem build became < (ma still remain).
+- - added file HydroResistances.cs from 1.5.5.3 as HydroResistances_OldStrange.cs. Ma no need. Easier to test in in its own old project.
+- Table (Cells):
+- - toStringArr is now GetStringArr, et methods ToStringArray et SetFromStrArr s'add'd.
+- - new struct of DBFieldCell: 
+    CellDBFieldOrItemsHeader(  ColNameToDisplay, 
+                               items, 
+                               TDBFieldHeaderData(DBFieldNameToDBTable, 
+                               TDBFieldCreationDataWithItemsTable(TDBFieldHeaderCreationData, TDBItemsTableData)
+                             )
+- MyLib.writeln et TValsShowHide: 
+- - fileName to append et append fn. 
+- Form1:
+- - now saves its listBox to text file.
+1.5.5.6:
+in hydro scshem work gut add par, add succ, del (seems ce wa nua in 1.5.5.5, ma ne in all copies)
+work gut, ma if add to 
+work gut to et from string arr uz TCellDBTableHeader et TCellDBColHeader
+1.5.5.7:
+1.5.5.6 +:
+class Form_TableCalling - works gut
+HyderoResistances  - alt constr, nu S gets ne k only, ma geq Ini HR data. Calc'tc gut
+Add'te fn HR.SwapInner, in VisForm - buttons <Swap et Swap>
+Works Edit btn, ma anu nur calls IniDataForm, ma ne ecri hic data to HR
+Cells classes TUniqueNumKeeper et TCellIntItemHeaderDependent nu s' heirs o'TCellInt, ne TCell
+reecri ToStrArray et SetFromStrArray uz simple cells subtypes
+Setters et Gettters uz DB data
+New constrs of DataCell: by DBData, by type et string array
+Setters SetDataAndType corresponding each constr
+classes for aco cell in ExcelHandler

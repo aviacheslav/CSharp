@@ -1,0 +1,24 @@
+GetNamesAsStringArr-SetNamesByStringArr
+GetItemsAsStringArr-SetItemsByStringArr
+GetStringArrLong   -SetStringArrLong
+
+GetAsStringArr_Names-SetByStringArr_Names
+GetAsStringArr_Items-SetByStringArr_Items
+GetAsStringArr_Long -SetByStringArr_Long
+
+int ParseCellCoords_GetL
+int ParseCellCoords_GetC
+int ParseCellCharacteristics_GetTypeN
+int ParseCellCharacteristics_GetLength
+int ParseCellCharacteristics_GetActiveN
+
+const string CellCoordsLine_FirstPart
+const string CellCoordsLine_SecondPart
+
+const string CellCharacteristicsLine_FirstPart
+const string CellCharacteristicsLine_SecondPart
+const string CellCharacteristicsLine_ThirdPart
+
+
+GetValEssential
+GetValDB
